@@ -1,16 +1,25 @@
-## Hi there 👋
+# 暴走吃瓜网 - 热门社交资讯与流行文化聚合平台
 
-<!--
-**bzcg68/bzcg68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📝 网站简介
+暴走吃瓜网每日实时追踪全网热门资讯，聚焦吃瓜文化与社交热点。内容涵盖热搜话题、影视娱乐动态、网红达人资讯以及校园流行文化等栏目。我们致力于为您提供最新鲜的互联网流行趋势与泛娱乐讨论，第一时间捕捉网络前沿热点！
 
-Here are some ideas to get you started:
+## 🏷️ 核心关键词
+`吃瓜网` `热门资讯` `社交热点` `影视娱乐` `网红动态` `校园资讯` `流行文化` `前沿热搜`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 访问导航
+
+### 🌐 站点直达
+*   **最新入口**：[https://bzcg01.com](https://bzcg01.com) 
+    *(注：常规网络即可访问，若个别地区遇运营商限制导致无法打开，请尝试更换浏览器)*
+*   **永久主页**：[https://bzcg8.com](https://bzcg8.com) *(需保持网络环境稳定畅通)*
+*   **永久入口**：[https://bzcgz.com](https://bzcgz.com)
+
+### 📱 官方社群与新媒体
+*   **Telegram 官方频道**：[https://t.me/bzcg5699](https://t.me/bzcg5699)
+*   **Twitter (X) 官方账号**：[https://x.com/bzcg98](https://x.com/bzcg98)
+
+### 📬 联络与备用获取方式
+*   **新地址自动获取邮箱**：[bzcgw@protonmail.com](mailto:bzcgw@protonmail.com)
+    *   **使用说明**：发送任意内容至该邮箱，系统将自动回复最新可用地址。若获取地址后仍遇访问障碍，可截图再次回复邮件，我们的技术支持将第一时间了解情况并协助解决，保障您的顺畅体验。
