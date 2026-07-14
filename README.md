@@ -17,7 +17,7 @@
 *   **永久入口**：[https://bzcgz.com](https://bzcgz.com)
 
 ### 📱 官方社群与新媒体
-*   **Telegram 官方频道**：[https://t.me/bzcg5699](https://t.me/bzcg5699)
+*   **Telegram 官方频道**：[https://telegram.me/bzcg5699](https://telegram.me/bzcg5699)
 *   **Twitter (X) 官方账号**：[https://x.com/bzcg98](https://x.com/bzcg98)
 
 ### 📬 联络与备用获取方式
