@@ -18,7 +18,7 @@
 
 ### 📱 官方社群与新媒体
 *   **Telegram 官方频道**：[https://telegram.me/bzcg5699](https://telegram.me/bzcg5699)
-*   **Twitter (X) 官方账号**：[https://x.com/bzcg98](https://x.com/bzcg98)
+*   **Twitter (X) 官方账号**：[https://x.com/tianlongdd](https://x.com/tianlongdd)
 
 ### 📬 联络与备用获取方式
 *   **新地址自动获取邮箱**：[bzcgw@protonmail.com](mailto:bzcgw@protonmail.com)
